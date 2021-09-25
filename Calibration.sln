@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calibration", "Calibration\Calibration.csproj", "{63385B15-1114-4050-BEEE-9D99CF1A68E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication", "Communication\Communication.csproj", "{849017D0-E693-44E1-82DC-32ACB0506215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm", "Alarm\Alarm.csproj", "{BB1E5F1C-3168-45DE-BC4D-265FEC099198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63385B15-1114-4050-BEEE-9D99CF1A68E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63385B15-1114-4050-BEEE-9D99CF1A68E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63385B15-1114-4050-BEEE-9D99CF1A68E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63385B15-1114-4050-BEEE-9D99CF1A68E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849017D0-E693-44E1-82DC-32ACB0506215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849017D0-E693-44E1-82DC-32ACB0506215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849017D0-E693-44E1-82DC-32ACB0506215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849017D0-E693-44E1-82DC-32ACB0506215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1E5F1C-3168-45DE-BC4D-265FEC099198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1E5F1C-3168-45DE-BC4D-265FEC099198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1E5F1C-3168-45DE-BC4D-265FEC099198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1E5F1C-3168-45DE-BC4D-265FEC099198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F69BEE8-703D-4F98-A050-5C18C0D60ED4}
+	EndGlobalSection
+EndGlobal
